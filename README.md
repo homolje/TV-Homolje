@@ -6,7 +6,7 @@ TV Homolje - live streaming
   
    <body>
     
-   <iframe width="640" height="360" src="https://web.tv/embed/live/2609218autoplay=1&mute=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe> 
+   <iframe width="640" height="360" frameborder="0" src="//tvhomolje.web.tv/embed/live/2609218?autoplay=1&mute=1" allowfullscreen="allowfullscreen"></iframe> 
   
   </body>
   
