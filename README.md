@@ -12,7 +12,7 @@ TV Homolje - live streaming
   
       <style>
             body {
-              background-color:green;
+              background-color:black;
               color:#fff;
               text-align:center;
             }
